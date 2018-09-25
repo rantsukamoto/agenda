@@ -1,0 +1,6 @@
+更新したいときはターミナルで
+
+cd /Users/tsukamotoran/Desktop/agenda
+git add .
+git commit -m 'update'
+git push origin work
