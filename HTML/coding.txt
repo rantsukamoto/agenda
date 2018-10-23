@@ -11,7 +11,7 @@
 htmlとcssのファイルを作り、そこで作業します。
 プロゲートでは、index.htmlだったと思います。　.htmlは、これはhtmlのページですよ。って事です。
 HTMLは、cssと組み合わせて使用する言語です。HTMLがウェブページ内の各要素の意味や情報構造を定義する所です。
-私は、index.htmlとstylesheet.cssで作業して行きます。
+私は、index.htmlとstylesheet.cssと今回名前をつけて作業して行きます。
 htmlと入力したら、tabを押します。そうすると、宣言が出て来たと思います。
 そこに、タイトル、文字化けしないようにUTF-8設定、、css読み込んでと<link rel="stylesheet" href="stylesheet.css">を書いて行きます。
 大きな箱と小さな箱をイメージして<div>を作っていきましょう
